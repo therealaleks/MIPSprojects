@@ -1,7 +1,7 @@
 # MIPSprojects
 A collection of MIPS programs I wrote
 
-##File descriptions
+## File descriptions
 
 **quad.asm:** Solving quadratic congruence
 
